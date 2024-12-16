@@ -1,5 +1,4 @@
-# Paper Title
-
+# Chinese Clinical Named Entity Recognition via Multi-head Self-attention Based BiLSTM-CRF
 Welcome to the official code repository for the paper titled *"Chinese Clinical Named Entity Recognition via Multi-head Self-attention Based BiLSTM-CRF"*. This repository contains the implementation of the methods and experiments presented in the paper. The paper introduces a deep learning model/algorithm based on **TensorFlow** to greatly improve the performance of Chinese clinical named entity recognition. 
 
 ## Dependencies
