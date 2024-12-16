@@ -1,0 +1,7 @@
+	         	precision 	recall    	f1        
+body_s    	    0.9043	    0.8525	    0.8776
+disease_s 	    0.8971	    0.6932	    0.7821
+treatment_s	     0.875	     0.814	    0.8434
+symptom_s 	    0.9134	    0.9788	     0.945
+exam_s    	    0.9549	    0.9681	    0.9615
+overall_s 	    0.9215	    0.9133	    0.9174
